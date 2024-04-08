@@ -1,7 +1,7 @@
 # About Me
 ## Introduction
 ![hi](images/cute_rabbit.jpg)
-Hi everyone! My name is ***Eugenie***, and I'm a junoir transfer ucsd student majored in CS. </br>
+Hi everyone! My name is ***Eugenie***, and I'm a junoir transfer ucsd student majored in CS. <br>
 Below is a ***inspiring quote*** that I like:
 > I never lose. Either I learn or win.
 
@@ -40,7 +40,7 @@ Some of my goals:
 - [ ] Apply for graduate school
 
 ## My Hobbies
-In my free time, I like drawing and playing vedio games. Here's some of my drawings: </br>
+In my free time, I like drawing and playing vedio games. Here's some of my drawings: <br>
 - [1](images/drawing1.jpg)
 - [2](images/drawing2.jpg)
 - [3](images/drawing3.jpg)
